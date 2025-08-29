@@ -27,7 +27,7 @@ Setting up and maintaining fiber routers and switches for internal networking. C
 
 ## Hobby Projects
 
-### rust-wiiu
+### [rust-wiiu](https://github.com/rust-wiiu)
 
 Creating a Rust ecosystem for Nintendo Wii U™ Homebrew software. Rust has many modern features missing in C/C++ and interopability with existing code. The project integrates with the devkitPro toolchain to offer system-level access and provides modern, idiomatic Rust APIs for enhanced ease of use and safety. It also supports standard Rust tooling for package management, code formatting, and documentation. It includes several featured projects covering many parts of Homebrew development, including main applications, plugins, graphics, networking, etc.
 

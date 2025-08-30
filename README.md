@@ -3,6 +3,10 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+[![Email](https://img.shields.io/badge/Email-29thday@proton.me-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-apestogetrstrong-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg)
+[![Matrix](https://img.shields.io/badge/Matrix-@29thday:matrix.org-111?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@yourusername:matrix.org)
+
 # Hi there ☺️, my name is Gerald
 
 I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my bachelor’s degree (2021-2026) at JKU, Austria, studying "Artificial Intelligence" and taking some CS courses.

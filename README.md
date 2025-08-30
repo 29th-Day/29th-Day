@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there ☺️, my name is Gerald
 
-I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my undergrad at JKU, Austria, studying "Artificial Intelligence" and taking some CS courses.
+I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my bachelor’s degree (2021-2025) at JKU, Austria, studying "Artificial Intelligence" and taking some CS courses.
 
 ## Professional Experience
 

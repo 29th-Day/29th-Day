@@ -34,7 +34,7 @@ Setting up and maintaining fiber routers and switches for internal networking. C
 
 Creating a Rust ecosystem for Nintendo Wii U™ Homebrew software. Rust has many modern features missing in C/C++ and interopability with existing code. The project integrates with the devkitPro toolchain to offer system-level access and provides modern, idiomatic Rust APIs for enhanced ease of use and safety. It also supports standard Rust tooling for package management, code formatting, and documentation. It includes several featured projects covering many parts of Homebrew development, including main applications, plugins, graphics, networking, etc.
 
-### Cellular Automata
+### [Cellular Automata](https://github.com/29th-Day/CellularAutomata)
 
 Experimental Cellular Automata implementation for learning purposes in C++ with CUDA kernels and simple GUI. Instead of having the fixed set of discrete rules like _Game of Life_, the rules were implemented as a modifiable pair of convolution kernel und activation function. This allows for continuous cell state and more diverse behaviour. Inspired by [Emergend Garden](https://youtu.be/3H79ZcBuw4M).
 

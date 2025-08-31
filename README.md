@@ -21,7 +21,7 @@ Working with a custom internal Java dialect and Python for prototyping, DevOps p
 ### Internship at Robert Bosch (Summer 2024)
 
 Support with the local hard- and software infrastructure for networking in the offices and factory.
-Setting up and maintaining fiber routers and switches for internal networking. Configuring hardware firewalls. Internal IT support and device maintenance.
+Setting up and maintaining fiber routers and switches, configuring hardware firewalls, internal IT support, and device maintenance.
 
 ### Freelancing
 * Static Webpages

@@ -13,7 +13,7 @@ I'm a professional and hobbyist programmer with a focus on Rust. Most of my know
 
 ## Professional Experience
 
-### Lead AI-Engineer at Fabasoft Contracts (Nov 2024 - Oct 2025)
+### AI-Engineer at Fabasoft Contracts (Nov 2024 - Oct 2025)
 
 Research and development of AI use cases for the business cloud: classification of documents, RAG-enabled chats, modern 360 dashboards, automatic risk assessment for contracts, DORA compliance, etc.
 Working with a custom internal Java dialect and Python for prototyping, DevOps pipelines and (semi-)automatic testing.

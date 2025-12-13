@@ -30,7 +30,9 @@ Setting up and maintaining fiber routers and switches, configuring hardware fire
 
 ## Academic education
 
-### Bachelor's degree "Artificial Intelligence" at JKU, Austria (Oct 2021 - now)
+### Bachelor's degree (Oct 2021 - now)
+
+Course "Artificial Intelligence" at JKU, Austria
 
 ## Hobby Projects
 
@@ -58,7 +60,7 @@ Here is a non-exhaustive list of tools I have used for both professional and hob
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java"/>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" title="C#"/>
   <!--
-  <img height="30" src="" alt="" title=""/>
+  <img height="35" src="" alt="" title=""/>
   -->
 </p>
 

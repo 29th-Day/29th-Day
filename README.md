@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there ☺️, my name is Gerald
 
-I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my bachelor’s degree (2021-2026) at JKU, Austria, studying "Artificial Intelligence" and taking some CS courses.
+I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my bachelor’s degree and taking some broader CS courses.
 
 ## Professional Experience
 
@@ -28,6 +28,10 @@ Setting up and maintaining fiber routers and switches, configuring hardware fire
 * Dynamic Webapps
 * Mentoring
 
+## Academic education
+
+### Bachelor's degree "Artificial Intelligence" at JKU, Austria (Oct 2021 - now)
+
 ## Hobby Projects
 
 ### [rust-wiiu](https://github.com/rust-wiiu)
@@ -43,6 +47,7 @@ Experimental Cellular Automata implementation for learning purposes in C++ with 
 Here is a non-exhaustive list of tools I have used for both professional and hobbyist projects.
 
 ### Languages
+
 <p align="left">
   <img height="35" src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust" title="Rust"/>
   <img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python"/>
@@ -51,7 +56,7 @@ Here is a non-exhaustive list of tools I have used for both professional and hob
   <img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" title="JavaScript"/>
   <img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript"/>
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java"/>
-  <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".NET" title=".NET"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" alt="C#" title="C#"/>
   <!--
   <img height="30" src="" alt="" title=""/>
   -->

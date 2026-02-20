@@ -15,7 +15,7 @@ I'm a professional and hobbyist programmer with a focus on Rust. Most of my know
 
 ### Software-Engineer at tenably (Nov 2025 - now)
 
-Full-stack development of a chat system build on top of the WhatsApp Business API.
+Full-stack development of a chat system build on top of the WhatsApp Business API using state machines and responable agentic AI.
 
 ### AI-Engineer at Fabasoft Contracts (Nov 2024 - Oct 2025)
 
@@ -36,7 +36,14 @@ Setting up and maintaining fiber routers and switches, configuring hardware fire
 
 ### Bachelor's degree (Oct 2021 - now)
 
-Course "Artificial Intelligence" at JKU, Austria
+Course "[Artificial Intelligence](https://www.jku.at/en/degree-programs/types-of-degree-programs/bachelors-and-diploma-degree-programs/ba-artificial-intelligence/)" at JKU, Austria
+
+## Open / Free-form education
+
+* [Missing Semester IAP 2026](https://missing.csail.mit.edu/2026/)
+* [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+* [Stanford CS234: Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* [Learn OpenGL](https://learnopengl.com/)
 
 ## Hobby Projects
 
@@ -71,7 +78,7 @@ Here is a non-exhaustive list of tools I have used for both professional and hob
 ### Machine Learning
 
 <p align="left">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2378px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" title="Scikit-learn"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn"/>
   <img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" title="PyTorch"/>
   <img height="30" src="https://lightning.ai/favicon/favicon.ico" alt="PyTorch Lightning" title="PyTorch Lightning: A deep learning framework based on PyTorch focusing on flexability and performance at scale."/>
   <img height="30" src="https://huggingface.co/favicon.ico" alt="HuggingFace" title="HuggingFace"/>

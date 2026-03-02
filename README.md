@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there ☺️, my name is Gerald
 
-I'm a professional and hobbyist programmer with a focus on Rust. Most of my knowledge is self-taught, along with my bachelor’s degree and taking some broader CS courses.
+I'm a professional and hobbyist programmer with a focus on Rust. My knowledge is primarily self-taught, alongside my bachelor's degree and a lifelong interest in the computer and natural sciences.
 
 ## Professional Experience
 

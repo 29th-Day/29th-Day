@@ -49,11 +49,11 @@ Course "[Artificial Intelligence](https://www.jku.at/en/degree-programs/types-of
 
 ### [rust-wiiu](https://github.com/rust-wiiu)
 
-Creating a Rust ecosystem for Nintendo Wii U™ Homebrew software. Rust has many modern features missing in C/C++ and interopability with existing code. The project integrates with the devkitPro toolchain to offer system-level access and provides modern, idiomatic Rust APIs for enhanced ease of use and safety. It also supports standard Rust tooling for package management, code formatting, and documentation. It includes several featured projects covering many parts of Homebrew development, including main applications, plugins, graphics, networking, etc.
+Creating a Rust ecosystem for Nintendo Wii U™ Homebrew software. Rust has many modern features missing in C/C++ and interopability with existing code. The code was written from scratch but influenced by existing C code.
 
 ### [Cellular Automata](https://github.com/29th-Day/CellularAutomata)
 
-Experimental Cellular Automata implementation for learning purposes in C++ with CUDA kernels and simple GUI. Instead of having the fixed set of discrete rules like _Game of Life_, the rules were implemented as a modifiable pair of convolution kernel und activation function. This allows for continuous cell state and more diverse behaviour. Inspired by [Emergend Garden](https://youtu.be/3H79ZcBuw4M).
+Experimental Cellular Automata implementation for learning purposes in C++ with CUDA kernels and simple GUI. The rules were implemented as a modifiable pair of convolution kernel und activation function. Inspired by [Emergend Garden](https://youtu.be/3H79ZcBuw4M).
 
 ## Stack
 

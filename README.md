@@ -15,7 +15,7 @@ I'm a professional and hobbyist programmer with a focus on Rust. My knowledge is
 
 ### Software-Engineer at tenably (Nov 2025 - now)
 
-Full-stack development of a chat system build on top of the WhatsApp Business API using state machines and responable agentic AI.
+Full-stack development of a chat system build on top of the WhatsApp Business API using state machines and integrations with various CRM systems.
 
 ### AI-Engineer at Fabasoft Contracts (Nov 2024 - Oct 2025)
 
